@@ -6,7 +6,24 @@ Construccion de un compilador de Lisp
 
 - Libro: [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-38.html#%_index_start)
 - Video: [Structure and Interpretaion of Computer Programs](https://www.youtube.com/watch?v=2Op3QLzMgSY)
+- [Racket Lisp](https://racket-lang.org/)
+- [Implementing a Lisp](http://wiki.c2.com/?ImplementingLisp)
+- [Implementing (the original) Lisp in Python](http://kjetilvalle.com/posts/original-lisp.html)
+- [LALRPOP parser generator](https://github.com/lalrpop/lalrpop)
+- [LALRPOP quick start](http://lalrpop.github.io/lalrpop/quick_start_guide.html)
+- [LALRPOP book](http://lalrpop.github.io/lalrpop/tutorial)
+- [Lisp implementada en Rust 1](https://github.com/swgillespie/rust-lisp)
+- [Implementing Lisp in Java](http://www.cis.upenn.edu/~matuszek/cit594-2003/Assignments/03-implementing-lisp.html)
+- [SO de gramatica de Lisp](https://stackoverflow.com/questions/517113/lisp-grammar-in-yacc)
 
+## Objetivos
+
+- Construir un lenguage de programacion real y practico
+- Ganar experiencia y conocimiento y un mayor entendimiento sobre la construccion de compiladores individual y compartida
+- Crear un entregable con una parte teorica y otra practica que nos permita distribuir nuestro conocimiento adquirido en distintos contextos.
+
+## Herramientas
+- Rust como lenguage de programacion porque nos da muy buena velocidad y muchas garantias en tiempo de compilacion
 
 ## Marco teorico
 
@@ -17,6 +34,12 @@ Utilizaremos un lexer basado en expresiones regulares provistas por el standard 
 TODO:
 - teoria de reg exp
 - teoria de automatas
+
+
+### Gramatica / Sintaxis
+
+TODO
+- definir la sintaxis exacta (probablemente algo parecido a Racket o Clojure)
 
 ### Parser
 
@@ -39,3 +62,9 @@ del lenguage original, mas simple, que el compilador finalmente pueda entender y
 
 
 
+
+
+### TODO
+- cargo fmt
+- clippy
+- tests
