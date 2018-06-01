@@ -15,6 +15,8 @@ Construccion de un compilador de Lisp
 - [Lisp implementada en Rust 1](https://github.com/swgillespie/rust-lisp)
 - [Implementing Lisp in Java](http://www.cis.upenn.edu/~matuszek/cit594-2003/Assignments/03-implementing-lisp.html)
 - [SO de gramatica de Lisp](https://stackoverflow.com/questions/517113/lisp-grammar-in-yacc)
+- [Implementing Lisp and Maxwell equations](http://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
+- [Implementing Lisp by Peter Norvig](http://norvig.com/lispy.html)
 
 ## Objetivos
 
