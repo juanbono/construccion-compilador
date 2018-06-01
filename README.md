@@ -62,7 +62,9 @@ Utilizaremos la tecnica detallada en SCIP en donde recursivamente las expresione
 se van simplificando hasta llegar a primitivas basicas, efectivamente reduciendo el codigo original a un subconjunto
 del lenguage original, mas simple, que el compilador finalmente pueda entender y procesar.
 
-
+## Preguntas
+- Podemos parsear Lisp con LR1?
+- Como implementar reader-macros y otras caracteristicas especiales de Lisp?
 
 
 
