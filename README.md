@@ -28,6 +28,12 @@ Construccion de un compilador de Lisp
 ## Herramientas
 - Rust como lenguage de programacion porque nos da muy buena velocidad y muchas garantias en tiempo de compilacion
 
+## Conocimientos previos
+
+- Rust
+- Lisp (puede ser Racket u otros)
+- Toeria basica de compiladores
+
 ## Marco teorico
 
 ### Lexer
